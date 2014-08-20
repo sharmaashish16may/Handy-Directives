@@ -7,7 +7,7 @@ Examples:
 
 
 Drag N Drop
-http://plnkr.co/edit/jmh6kjsHFyyyFqLIshBG
+http://plnkr.co/Rr0tgx
 
 Star Rating
-http://plnkr.co/edit/lsJajenpG318jBy0aVrV
+http://plnkr.co/lsJajenpG318jBy0aVrV
